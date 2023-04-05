@@ -15,7 +15,7 @@ All code written by CatX711 (D.C) <em>alone</em>.
 Thank you to <strong>Brad Traversy</strong> for his countless amazing tutorials
 on HTML, CSS, and Javascript. You helped me to create this website!
 
-Brad Traversy: <a href="https://www.youtube.com/@TraversyMedia" target="_blank"
+Brad Traversy: <a href="https://www.youtube.com/@TraversyMedia" target="_blank">
 
 <br />
 <br />
