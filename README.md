@@ -9,6 +9,7 @@ My First Functioning Website :D
 
 Coded in Sublime Text and linked to Netlify servers.
 All code written by CatX711 (D.C) <em>alone</em>.
+<br />
 Thank you to <strong>Brad Traversy</strong> for his countless amazing tutorials
 on HTML, CSS, and Javascript. You helped me to create this website!
 
